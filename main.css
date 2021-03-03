@@ -15,11 +15,13 @@ body {
 
 .rely {
     font-weight: 400;
+    padding: 5px;
     color: hsl(229, 6%, 66%);
 }
 
 .power {
     font-weight: 700;
+    padding: 5px;
     color: hsl(234, 12%, 34%);
 }
 
@@ -104,6 +106,7 @@ body {
     margin: auto;
     margin-bottom: 10px;
     width: 40%;
+    padding: 5px;
     color: hsl(229, 6%, 66%);
 }
 
